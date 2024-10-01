@@ -1,3 +1,3 @@
 # Game Story
 
-## Fronte Core
+## Fronte Core 1
